@@ -1,0 +1,52 @@
+{
+  "profesores": [
+    {
+      "nombre": "María",
+      "apellido": "González",
+      "materia": "Matemáticas",
+      "id": "d393"
+    },
+    {
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "materia": "Historia",
+      "id": "6cfb"
+    },
+    {
+      "nombre": "Lucía",
+      "apellido": "Rodríguez",
+      "materia": "Ciencias",
+      "id": "8494"
+    },
+    {
+      "0": {
+        "nombre": "Camila",
+        "apellido": "asdz",
+        "materia": "Matdáticas",
+        "id": "7124"
+      },
+      "id": "a7bf"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Ana",
+      "materias": [
+        "Ciencias",
+        "Matemáticas"
+        
+      ],
+      "id": "b6ff"
+    },
+    {
+     
+      "nombre": "Luis",
+      "materias": [
+        "Historia",
+        "Ciencias"
+      ],
+      "id": "b8f6"
+    }
+ 
+  ]
+}

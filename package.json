@@ -1,0 +1,11 @@
+{
+  "name": "proyecto-svjson",
+  "version": "0.0.1",
+  "main": "app.js",
+  "scripts": {
+   "start": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
